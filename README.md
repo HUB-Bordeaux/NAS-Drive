@@ -11,7 +11,7 @@
 ```bash
 $ node -v
 v12.16.1
- ```
+```
 
 ## Installation
 
@@ -50,9 +50,12 @@ npm run dev
 
 ## Usage
 
-1. Go to http://localhost:3000
+1. Go to https://cloud.doctorpok.io
 
 2. Login with your credentials
+
+   - Hub | Hub
+   - Hub-Save | Hub-Save
 
 3. Upload your files
 
